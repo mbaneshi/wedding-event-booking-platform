@@ -12,7 +12,7 @@ Get the Wedding & Event Booking Platform running in 5 minutes!
 
 ```bash
 # Navigate to project
-cd /Users/nerd/freelancer/11-wedding-event-booking-platform
+cd wedding-event-booking-platform
 
 # Start all services
 docker-compose up -d

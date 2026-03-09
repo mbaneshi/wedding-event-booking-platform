@@ -38,7 +38,7 @@ The fastest way to get started is using Docker Compose:
 
 ### 2. Clone and Start
 ```bash
-cd /Users/nerd/freelancer/11-wedding-event-booking-platform
+cd wedding-event-booking-platform
 
 # Start all services
 docker-compose up -d
@@ -115,7 +115,7 @@ sudo mv composer.phar /usr/local/bin/composer
 
 ### Step 2: Clone Repository
 ```bash
-cd /Users/nerd/freelancer/11-wedding-event-booking-platform
+cd wedding-event-booking-platform
 ```
 
 ### Step 3: Setup Backend
@@ -186,7 +186,7 @@ NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_key
 createdb wedding_platform
 
 # Run migrations
-cd /Users/nerd/freelancer/11-wedding-event-booking-platform/database/migrations
+cd wedding-event-booking-platform/database/migrations
 
 psql wedding_platform < 001_create_users_table.sql
 psql wedding_platform < 002_create_categories_table.sql

@@ -3,7 +3,7 @@ WEDDING & EVENT BOOKING PLATFORM - PROJECT STATUS
 ================================================================================
 
 PROJECT: Wedding & Event Booking Platform (Multi-sided Marketplace)
-LOCATION: /Users/nerd/freelancer/11-wedding-event-booking-platform
+LOCATION: wedding-event-booking-platform (repo root)
 STATUS: ✅ COMPLETE & READY FOR DEPLOYMENT
 DATE COMPLETED: 2025-11-10
 
